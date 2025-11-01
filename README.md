@@ -11,6 +11,6 @@ Hello, ZIA here...
 </p>
 
 <p align="center">
-  <strong style="font-size: 20px;">~ THE JUDGEMENT DAY ~</strong><br>
-  <strong style="font-size: 20px;">THE DAY OF RECOMPENSE</strong>
+  <span style="font-size: 22px; font-weight: bold;">~ THE JUDGEMENT DAY ~</span><br>
+  <span style="font-size: 22px; font-weight: bold;">THE DAY OF RECOMPENSE</span>
 </p>
